@@ -8,7 +8,7 @@ Explore the groundbreaking work at [Virusdoll's GitHub repository](https://githu
 - **Torch** >= 1.12.1
 - **Torchvision** >= 0.13.1
 - **Numpy** >= 1.23.1
-
+ 
 ## 🛠️ Changes Made
 We've wielded our coding wand to enhance `utils.py`:
 - ✨ Added conditions for loss functions `nce` and `nnce`.
